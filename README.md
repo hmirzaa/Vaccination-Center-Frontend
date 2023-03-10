@@ -2,6 +2,13 @@
 
 [Demo](https://demo-vaccine-center.netlify.app/)
 
+# Setup Instruction
+- Clone this repository
+- cd frontend && npm install
+- npm start
+
+- by default backend server port is 9099, if its different for you change it frontend/src/containers/actions/Settings.js
+
 To get you quickly started on the challenge, we have created this boilerplate as a guideline
 
 This project was bootstrapped with 
