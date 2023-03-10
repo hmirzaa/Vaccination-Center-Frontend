@@ -10,9 +10,16 @@
 - by default backend server port is 9099, if its different for you change it frontend/src/containers/actions/Settings.js
 
 
+#
+# Key Features
 
+- CRUD operations for booking
+- Avoid double reservation
+- Center Daily Capacity
+- Nurses Duty Schedule
+- Resource contention based on available nurses
 
-
+#
 To get you quickly started on the challenge, we have created this boilerplate as a guideline
 
 This project was bootstrapped with 
